@@ -1,0 +1,2 @@
+# PEMS-BAY-Multivariate-Traffic-Speed-Forecasting-with-Simple_RNN-LSTM-GRU
+Multivariate traffic speed forecasting on the PEMS-BAY dataset using SimpleRNN, LSTM, and GRU. Compares deep learning models for multi-step prediction of highway speeds across 325 sensors. Includes data preprocessing, sequence generation, model training, evaluation (MAE/RMSE), visualization, and model saving for deployment.
